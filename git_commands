@@ -12,3 +12,7 @@ git pull
 git clone SSK_key - Clones the repository
 
 
+rm .git/index.lock - removed the lock on one directory
+
+
+
