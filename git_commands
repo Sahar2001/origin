@@ -1,0 +1,11 @@
+git status
+git add . - Stages new and modified, without deleted
+git add -A - stages all
+git add -u stages modified and deleted, without new 
+git Log - version control
+git diff file name -show difference b/w previous and modified version
+git diff --staged filename - show difference b/w previous and staged file
+git push
+git pull
+
+
